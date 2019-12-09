@@ -1,8 +1,8 @@
 # BME_590_Fast_Style_Transfer
 By Yuqin Shen. Advisor: Ouwen Wang.
 
-The code implements video style transfer based on image style transfer from the paper **[A Neural Algorithm of Artistic Style
-](https://arxiv.org/abs/1508.06576)**, **[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)**, **[Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)**.
+The code implements video style transfer based on image style transfer from the paper **1)[A Neural Algorithm of Artistic Style
+](https://arxiv.org/abs/1508.06576)**, **2)[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)**, **3)[Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)**.
 
 In this repository we provide three jupyter notebook to perform the following:
 - Perform Neural style transfer using VGG16 
