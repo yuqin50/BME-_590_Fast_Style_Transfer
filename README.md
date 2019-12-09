@@ -16,6 +16,6 @@ The code work is based on **[Logan Engstrom](https://github.com/lengstrom/fast-s
 Here we transformed every frame in a video, then combined the results. [Click to go to the full demo on YouTube!](https://youtu.be/N-BCa48eh8g) .
 <div align = 'center'>
      <a href = 'https://youtu.be/N-BCa48eh8g'>
-        <img src = 'data/stylized/Fast_Style_Transfer.gif' alt = 'Stylized fox video. Click to go to YouTube!' width = '800px' height = '400px'>
+        <img src = 'data/stylized/Fast_Style_Transfer.gif' alt = 'Stylized fox video. Click to go to YouTube!' width = '711px' height = '400px'>
      </a>
 </div>
