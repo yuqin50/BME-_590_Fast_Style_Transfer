@@ -1,8 +1,8 @@
 # BME_590_Fast_Style_Transfer
 By Yuqin Shen. Advisor: Ouwen Wang.
 
-The code implements video style transfer based on image style transfer from the paper **1)[A Neural Algorithm of Artistic Style
-](https://arxiv.org/abs/1508.06576)**, **2)[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)**, **3)[Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)**.
+The code implements video style transfer based on image style transfer from the paper 1)**[A Neural Algorithm of Artistic Style
+](https://arxiv.org/abs/1508.06576)**, 2)**[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)**, 3)**[Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)**.
 
 In this repository we provide three jupyter notebook to perform the following:
 - Perform Neural style transfer using VGG16 
@@ -13,9 +13,9 @@ The code work is based on **[Logan Engstrom](https://github.com/lengstrom/fast-s
 
 
 ## Video Stylization 
-Here we transformed every frame in a video, then combined the results. [Click to go to the full demo on YouTube!](https://www.youtube.com/watch?v=xVJwwWQlQ1o) The style here is Udnie, as above.
+Here we transformed every frame in a video, then combined the results. [Click to go to the full demo on YouTube!](https://youtu.be/N-BCa48eh8g) The style here is Udnie, as above.
 <div align = 'center'>
-     <a href = 'https://www.youtube.com/watch?v=N-BCa48eh8g&feature=youtu.be'>
-        <img src = 'examples/results/fox_udnie.gif' alt = 'Stylized fox video. Click to go to YouTube!' width = '800px' height = '400px'>
+     <a href = 'https://youtu.be/N-BCa48eh8g'>
+        <img src = 'data/content/movie/stylized_movie/dance_stylized_vgg16_0.mp4' alt = 'Stylized fox video. Click to go to YouTube!' width = '800px' height = '400px'>
      </a>
 </div>
